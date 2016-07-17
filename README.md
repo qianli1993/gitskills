@@ -1,2 +1,2 @@
 # gitskills
-07172214
+Creating a new branch is quick AND simple.
